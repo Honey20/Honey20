@@ -10,8 +10,6 @@
 <code><img width="40px" src="https://lh3.googleusercontent.com/proxy/YzY482fHtsxa2JvbQlPe57MPZ19UuK97m0w2FybtlhLF-TXfUBZSXaAdz2Z8OqStMzcjBRYmPLMD1Lw82K6JUY2p3oI" title="Python"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/2x/linux.png" title="Linux"/></code>
 
--------------------
-
 ![Honey's Github Stats](https://github-readme-stats.vercel.app/api?username=Honey20&theme=merko&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Honey20&theme=merko&layout=compact)](https://github.com/Honey20/github-readme-stats)
