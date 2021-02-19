@@ -1,6 +1,6 @@
 ### Hi there, I'm Honey Srivastav 👋
 
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning JavaScript
 
 ### I am good at:
 <code><img width="40px" src="https://img.icons8.com/fluent/2x/github.png" title="GitHub"/></code>
