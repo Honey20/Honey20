@@ -1,16 +1,27 @@
-### Hi there 👋
+### Hi there, I'm Honey Srivastav 👋
 
-<!--
-**Honey20/Honey20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning Javascript
 
-Here are some ideas to get you started:
+### I am good at:
+<code><img width="40px" src="https://img.icons8.com/fluent/2x/github.png" title="GitHub"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/2x/c-plus-plus-logo.png" title="C++"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/2x/c-programming.png" title="C"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/2x/java-coffee-cup-logo.png" title="Java"/></code>
+<code><img width="40px" src="https://lh3.googleusercontent.com/proxy/YzY482fHtsxa2JvbQlPe57MPZ19UuK97m0w2FybtlhLF-TXfUBZSXaAdz2Z8OqStMzcjBRYmPLMD1Lw82K6JUY2p3oI" title="Python"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/2x/linux.png" title="Linux"/></code>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-------------------
+
+![Honey's Github Stats](https://github-readme-stats.vercel.app/api?username=Honey20&theme=merko&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Honey20&theme=merko&layout=compact)](https://github.com/Honey20/github-readme-stats)
+
+--------------------
+### Let's Connect!!
+<a href="https://www.linkedin.com/in/honey-srivastav208/">
+	<img align="left" width="60px" src="https://img.icons8.com/plasticine/2x/linkedin.png" />
+</a>
+<a href = "mailto: srivastav.honey20@gmail.com">
+	<img align="left" width="60px" src="https://img.icons8.com/plasticine/2x/gmail.png" />
+</a>
+<br>
