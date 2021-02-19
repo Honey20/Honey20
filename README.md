@@ -11,9 +11,9 @@
 <code><img width="40px" src="https://img.icons8.com/color/2x/linux.png" title="Linux"/></code>
 
 
-![Honey's Github Stats](https://github-readme-stats.vercel.app/api?username=Honey20&theme=merko&show_icons=true)
+![Honey's Github Stats](https://github-readme-stats.vercel.app/api?username=Honey20&theme=highcontrast&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Honey20&theme=merko&layout=compact)](https://github.com/Honey20/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Honey20&theme=highcontrast&layout=compact)](https://github.com/Honey20/github-readme-stats)
 
 --------------------
 ### Let's Connect!!
