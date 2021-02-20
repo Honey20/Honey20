@@ -7,7 +7,8 @@
 <code><img width="40px" src="https://img.icons8.com/color/2x/c-plus-plus-logo.png" title="C++"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/2x/c-programming.png" title="C"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/2x/java-coffee-cup-logo.png" title="Java"/></code>
-<code><img width="40px" src="https://lh3.googleusercontent.com/proxy/YzY482fHtsxa2JvbQlPe57MPZ19UuK97m0w2FybtlhLF-TXfUBZSXaAdz2Z8OqStMzcjBRYmPLMD1Lw82K6JUY2p3oI" title="Python"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/2x/python.png" title="Python"/></code>
+<code><img width="40px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" title="MySQL"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/2x/linux.png" title="Linux"/></code>
 
 
